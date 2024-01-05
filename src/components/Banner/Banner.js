@@ -7,7 +7,7 @@ const Banner = () => {
         <div className="tagline">
           <h1 style={{ fontSize: "44px" }}>Crypto Hunter</h1>
           <p style={{ fontWeight: 100 }}>
-            Get All The Info Regarding Your Favorite Crypto Currency
+            Get All The Information Regarding Your Favorite Crypto Currency
           </p>
         </div>
         <Carousel />
